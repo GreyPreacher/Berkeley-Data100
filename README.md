@@ -7,3 +7,4 @@ For some reason the test files(e.g. q1a.py) need *OK_FORMAT = True* in the first
     #! /bin/bash  
     sed '1i OK_FORMAT = True' *.py -i  
 
+to fix the problem
