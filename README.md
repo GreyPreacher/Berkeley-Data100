@@ -34,7 +34,7 @@ to fix the problem
 
 
 # Homework
-🐱‍👓 The Homework contain 14 independent homework. 
+🐱 The Homework contain 14 independent homework. 
 
 - [x] Homework01: Intro + Prerequisites
 - [x] Homework02: Sampling Error and Bias
