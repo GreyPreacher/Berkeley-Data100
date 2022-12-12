@@ -16,8 +16,8 @@ to fix the problem
 # Labs
 🐱‍👓 The Labs contain 15 independent labs. 
 
-- [x] Lab01: Prerequisite Coding
-- [x] Lab02: Pandas
+- [x] [Lab01: Prerequisite Coding](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Lab/lab01)
+- [x] [Lab02: Pandas](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Lab/lab02)
 - [ ] Lab03: Data Cleaning and Visualization
 - [ ] Lab04: SQL
 - [ ] Lab05: Transformations and SQL 
@@ -36,8 +36,8 @@ to fix the problem
 # Homework
 🐱 The Homework contain 14 independent homework. 
 
-- [x] Homework01: Intro + Prerequisites
-- [x] Homework02: Sampling Error and Bias
+- [x] [Homework01: Intro + Prerequisites](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Homework/hw1)
+- [x] [Homework02: Sampling Error and Bias](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Homework/hw2)
 - [ ] Homework03: Food Safety
 - [ ] Homework04: Tweets
 - [ ] Homework05: SQL
