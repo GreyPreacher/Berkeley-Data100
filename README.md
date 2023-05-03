@@ -17,7 +17,7 @@ to fix the problem
 🐱‍👓 The Labs contain 15 independent labs. 
 
 - [x] [Lab01: Prerequisite Coding](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Lab/lab01)
-- [ ] Lab02: Pandas
+- [x] [Lab02: Pandas](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Lab/lab02)
 - [ ] Lab03: Data Cleaning and Visualization
 - [ ] Lab04: SQL
 - [ ] Lab05: Transformations and SQL 
