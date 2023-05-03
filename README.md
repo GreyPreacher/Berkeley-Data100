@@ -36,7 +36,7 @@ to fix the problem
 # Homework
 🐱 The Homework contain 14 independent homework. 
 
-- [x] Homework01: Intro + Prerequisites
+- [x] [Homework01: Intro + Prerequisites](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Homework/hw1)
 - [ ] Homework02: Sampling Error and Bias
 - [ ] Homework03: Food Safety
 - [ ] Homework04: Tweets
