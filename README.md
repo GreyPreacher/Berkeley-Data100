@@ -36,7 +36,7 @@ to fix the problem
 # Homework
 🐱 The Homework contain 14 independent homework. 
 
-- [ ] Homework01: Intro + Prerequisites
+- [x] Homework01: Intro + Prerequisites
 - [ ] Homework02: Sampling Error and Bias
 - [ ] Homework03: Food Safety
 - [ ] Homework04: Tweets
