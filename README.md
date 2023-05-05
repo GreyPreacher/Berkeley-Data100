@@ -1,6 +1,6 @@
 # Berkeley-Data100
 😎 This is UC Berkeley Data100 **Principles and Techniques of Data Science** Fall 2021 by GreyPreacher(Alvin Zhang).  
-**IDE**: Jupyter Notebook.
+⚔ **IDE**: Jupyter Notebook.
 
 # Resources
 📽 All course resources can be found at https://ds100.org/fa21/.  
