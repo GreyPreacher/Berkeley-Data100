@@ -39,7 +39,7 @@ to fix the problem
 
 - [x] [Homework01: Intro + Prerequisites](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Homework/hw1)
 - [x] [Homework02: Sampling Error and Bias](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Homework/hw2)
-- [ ] Homework03: Food Safety
+- [x] [Homework03: Food Safety](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Homework/hw2)
 - [ ] Homework04: Tweets
 - [ ] Homework05: SQL
 - [ ] Homework06: Bike Sharing
