@@ -20,7 +20,7 @@ to fix the problem
 - [x] [Lab01: Prerequisite Coding](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Lab/lab01)
 - [x] [Lab02: Pandas](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Lab/lab02)
 - [x] [Lab03: Data Cleaning and Visualization](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Lab/lab03)
-- [ ] Lab04: SQL
+- [x] [Lab04: SQL](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Lab/lab04)
 - [ ] Lab05: Transformations and SQL 
 - [ ] Lab06: Modeling, Summary Statistics, and Loss Functions
 - [ ] Lab07: Simple Linear Regression
