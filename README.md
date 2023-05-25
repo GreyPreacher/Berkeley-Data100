@@ -40,7 +40,7 @@ to fix the problem
 - [x] [Homework01: Intro + Prerequisites](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Homework/hw1)
 - [x] [Homework02: Sampling Error and Bias](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Homework/hw2)
 - [x] [Homework03: Food Safety](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Homework/hw3)
-- [ ] Homework04: Tweets
+- [x] [Homework04: Tweets](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Homework/hw4)
 - [ ] Homework05: SQL
 - [ ] Homework06: Bike Sharing
 - [ ] Homework07: Regression (on paper)
