@@ -22,7 +22,7 @@ to fix the problem
 - [x] [Lab03: Data Cleaning and Visualization](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Lab/lab03)
 - [x] [Lab04: SQL](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Lab/lab04)
 - [x] [Lab05: Transformations and SQL](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Lab/lab05) 
-- [ ] Lab06: Modeling, Summary Statistics, and Loss Functions
+- [x] [Lab06: Modeling, Summary Statistics, and Loss Functions](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Lab/lab06)
 - [ ] Lab07: Simple Linear Regression
 - [ ] Lab08: Multiple Linear Regression & Feature Engineering
 - [ ] Lab09: Content Review (optional)
