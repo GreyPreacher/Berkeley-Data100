@@ -43,7 +43,7 @@ to fix the problem
 - [x] [Homework04: Tweets](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Homework/hw4)
 - [x] [Homework05: SQL](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Homework/hw5)
 - [x] [Homework06: Bike Sharing](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Homework/hw6)
-- [ ] Homework07: Regression (on paper)
+- [x] Homework07: Regression (on paper)\[I have no material of hw07\]
 - [ ] Homework08: Housing I 
 - [ ] Homework09: Housing II
 - [ ] Homework10: PCA
