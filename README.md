@@ -14,8 +14,8 @@
 
 to fix the problem
 
-# Labs
-🐱‍👓 The Labs contain 15 independent labs. 
+# Lab
+🐱‍👓 The Lab section contains 15 independent labs. 
 
 - [x] [Lab01: Prerequisite Coding](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Lab/lab01)
 - [x] [Lab02: Pandas](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Lab/lab02)
@@ -26,7 +26,7 @@ to fix the problem
 - [x] [Lab07: Simple Linear Regression](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Lab/lab07)
 - [x] [Lab08: Multiple Linear Regression & Feature Engineering](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Lab/lab08)
 - [ ] Lab09: Content Review (optional)
-- [ ] Lab10: Cross-Validation and Regularization
+- [x] [Lab10: Cross-Validation and Regularization](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Lab/lab10)
 - [ ] Lab11: PCA
 - [ ] Lab12: Climate Data 
 - [ ] Lab13: Logistic Regression
@@ -35,7 +35,7 @@ to fix the problem
 
 
 # Homework
-🐱 The Homework contain 14 independent homework. 
+🐱 The Homework section contains 14 independent homework. 
 
 - [x] [Homework01: Intro + Prerequisites](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Homework/hw1)
 - [x] [Homework02: Sampling Error and Bias](https://github.com/GreyPreacher/Berkeley-Data100/tree/main/Homework/hw2)
